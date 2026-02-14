@@ -7,7 +7,7 @@ An AI-powered NPC interaction system that brings game characters to life with ge
 [![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity)](https://unity.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ---
 
