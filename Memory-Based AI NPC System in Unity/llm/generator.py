@@ -1,6 +1,6 @@
 import requests
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 MODEL = "mistralai/mixtral-8x7b-instruct"
 
 def generate_llm_response(prompt):
@@ -35,4 +35,5 @@ def generate_llm_response(prompt):
         return result["choices"][0]["message"]["content"]
     except:
         print("Unexpected response:", result)
+
         return "The NPC seems confused."
