@@ -61,9 +61,7 @@ This isn't a simple chatbot wrapper. This is a **stateful AI agent framework** t
 ![Conversation Example](screenshots/A2.png)
 *NPC responding with personality and memory context - showing reputation system in action*
 
-### Backend API
-![FastAPI Docs](screenshots/A3.png)
-*UI*
+
 
 > **Note:** Add your screenshots to the `screenshots/` folder in the repository root.
 
