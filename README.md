@@ -54,16 +54,16 @@ This isn't a simple chatbot wrapper. This is a **stateful AI agent framework** t
 ## 📸 Screenshots
 
 ### Game Interface
-![Unity NPC Interaction](screenshots/unity_interaction.png)
+![Unity NPC Interaction](screenshots/A1.png)
 *Player interacting with NPC in Unity - dialogue UI and proximity detection*
 
 ### Conversation Flow
-![Conversation Example](screenshots/conversation_flow.png)
+![Conversation Example](screenshots/A2.png)
 *NPC responding with personality and memory context - showing reputation system in action*
 
 ### Backend API
-![FastAPI Docs](screenshots/api_docs.png)
-*Interactive API documentation with endpoint details*
+![FastAPI Docs](screenshots/A3.png)
+*UI*
 
 > **Note:** Add your screenshots to the `screenshots/` folder in the repository root.
 
